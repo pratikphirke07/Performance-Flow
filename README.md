@@ -8,7 +8,7 @@
 * ***Attrition and Retention Rates:*** Provides real-time monitoring of attrition and retention percentages, which are crucial for assessing workforce stability.
 * ***Employee Statisfaction:*** Visualizes employee satisfaction metrics, helping to track overall morale and areas for improvement.
 * ***Salary and Bonus Insights:*** Average salary and bonus information by department, enabling a clear understanding of compensation structures.
-* ***Performance Flow Analysis:*** ses the xViz Performance Flow visual to show inter-departmental collaboration, employee performance (including employees on notice period or needing improvement), and project assignments.
+* ***Performance Flow Analysis:*** Uses the xViz Performance Flow visual to show inter-departmental collaboration, employee performance (including employees on notice period or needing improvement), and project assignments.
 
 
 ## Technologies Used:
